@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Jain</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Software Engineer, Adobe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainutk20&label=Profile%20views&color=0e75b6&style=flat" alt="jainutk20" /> </p>
 
 <!-- - 🔭 I’m currently working on **.** -->
 
-- 🌱 I’m currently learning **Tensorflow, Keras, React Native**
+- 🌱 I’m currently learning **LangChain, LangGraph, Pydantic AI**
 
 <!-- - 👯 I’m looking to collaborate on **.** -->
 
